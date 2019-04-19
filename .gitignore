@@ -1,32 +1,11 @@
-# Prerequisites
-*.d
+# System and IDE files
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+package-lock.json
+# Vendors
 
-# Precompiled Headers
-*.gch
-*.pch
+node_modules/
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
 
-# Fortran module files
-*.mod
-*.smod
+# Build
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+build/
