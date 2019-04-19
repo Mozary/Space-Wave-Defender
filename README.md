@@ -6,4 +6,6 @@ Player needs to survive four waves of aliens, with the number of enemies for eac
 
 The Player has the ability to shoot, jump, and move, as well as charging its shoot, of which amount to five single shoot power. Enemy criters are programmed to follow the player without any other abilities and only have one 'health', whereas the boss have ten 'health' and seemingly able to dodge player's shoots by jumping randomly.
 
-![Space Ship Shooter](Capture.PNG)
+Graphic Assets used in development of this game such as sound and sprites are free assets, all credits of these assets belongs to their creators, and not mine.
+
+![Space Wave Defender](Capture2.PNG)
